@@ -1,0 +1,13 @@
+h1{
+    background-color: blueviolet;
+}
+p{
+    color: aquamarine;
+}
+h3{
+    background-color: brown;
+}
+h3>h1{ 
+    color: hotpink;
+    
+}
