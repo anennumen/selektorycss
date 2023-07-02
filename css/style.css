@@ -7,7 +7,7 @@ p{
 h3{
     background-color: brown;
 }
-h1>h3{ 
+h1+h3{ 
     color: hotpink;
     
 }
